@@ -112,52 +112,6 @@ namespace TeamCSFile
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    //Michael
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    //Jod types here
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
     
 
